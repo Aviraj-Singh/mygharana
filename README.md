@@ -19,29 +19,29 @@ Hotel Details: View detailed information about a selected hotel, including ameni
 
 ## `Getting Started`
 
-To get started with the MyGharana: Hotel Booking App, follow these steps:
+1. To get started with the MyGharana: Hotel Booking App, follow these steps:
 
 Clone the repository to your local machine using the following command:
 ```
 git clone https://github.com/your-username/hotel-booking-app-frontend.git
 ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 ````
 cd hotel-booking-app-frontend
 ```
 
-Install the project dependencies by running the following command:
+3. Install the project dependencies by running the following command:
 ```
 npm install
 ```
 
-Start the development server:
+4. Start the development server:
 ```
 npm start
 ```
 
-Open your web browser and visit http://localhost:3000 to see the Hotel Booking App in action.
+5. Open your web browser and visit http://localhost:3000 to see the Hotel Booking App in action.
 
 
 ## `Usage`
