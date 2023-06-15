@@ -25,18 +25,22 @@ Clone the repository to your local machine using the following command:
 ```
 git clone https://github.com/your-username/hotel-booking-app-frontend.git
 ```
+
 Navigate to the project directory:
 ````
 cd hotel-booking-app-frontend
 ```
+
 Install the project dependencies by running the following command:
 ```
 npm install
 ```
+
 Start the development server:
 ```
 npm start
 ```
+
 Open your web browser and visit http://localhost:3000 to see the Hotel Booking App in action.
 
 
